@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Ellipsoid'
-copyright = '2024, Marie Lequien'
-author = 'Marie Lequien'
-release = '0.1'
+project = "Ellipsoid"
+copyright = "2024, Marie Lequien"
+author = "Marie Lequien"
+release = "0.1"
 
 # -- Project information -----------------------------------------------------
 project = "python_project_template"
@@ -44,4 +44,3 @@ html_theme_options = {
     "fixed_sidebar": True,
     "show_related": True,  # Ajoute des liens vers les pages connexes.
 }
-
