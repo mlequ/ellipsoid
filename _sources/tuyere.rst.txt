@@ -1,0 +1,10 @@
+tuyere package
+==============
+
+Module contents
+---------------
+
+.. automodule:: tuyere
+   :members:
+   :undoc-members:
+   :show-inheritance:
